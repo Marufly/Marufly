@@ -1,16 +1,31 @@
 ## Hi there 👋
+🚀 About Me
 
-<!--
-**Marufly/Marufly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Diploma student in Computer Science & Technology (CST)
+Passionate about Java backend development
+Interested in building scalable server-side applications
+Actively learning and contributing to open-source projects
+Goal: Become a professional software engineer
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages & Core
+Java ☕
+SQL (Basics)
+
+
+Backend & Tools
+OOP Concepts
+REST API (Learning)
+Spring Boot (Learning)
+
+Git & GitHub
+Web Basics
+HTML
+CSS
+
+🌱 Currently Learning
+Java Advanced Concepts
+Spring Boot & Backend Architecture
+Clean Code & Best Practices
+Open Source Collaboration
