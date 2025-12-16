@@ -1,4 +1,4 @@
-## Hi there 👋
+##👋 Hi I'm Jahid Hasan Maruf
 🚀 About Me
 
 Diploma student in Computer Science & Technology (CST)
