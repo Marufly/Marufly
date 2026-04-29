@@ -1,6 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Marufly&style=flat-square&color=blue)
 ## 👋 Hi I'm Jahid Hasan Maruf
-🚀 About Me
 ```java
 public class MarufHossain {
     private String role = "Aspiring Java Backend Developer";
@@ -22,6 +21,37 @@ public class MarufHossain {
         return "Building things that actually work > talking about building things";
     }
 }
+```
+
+<br>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
 ```
 Diploma student in Computer Science & Technology (CST)
 Passionate about Java backend development 
