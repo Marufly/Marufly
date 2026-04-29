@@ -52,7 +52,7 @@ public class MarufHossain {
   </a>
 </p>
 
-```
+
 Diploma student in Computer Science & Technology (CST)
 Passionate about Java backend development 
 Interested in building scalable server-side applications.
