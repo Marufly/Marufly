@@ -1,27 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Marufly&style=flat-square&color=blue)
 ## 👋 Hi I'm Jahid Hasan Maruf
-```java
-public class MarufHossain {
-    private String role = "Aspiring Java Backend Developer";
-    private String status = "Diploma Engineering Student @ Bangladesh";
-    private int graduationYear = 2027;
-    private String location = "Dhaka, Bangladesh";
-    private String[] techStack = {
-        "Java", "Spring Boot", "OOP",
-        "MySQL", "REST APIs", "Git"
-    };
-    private String[] funFacts = {
-        "Souls series veteran — Sekiro & Elden Ring",
-        "Started Java in March 2026, no regrets",
-
-    };
-
-    public String getMotivation() {
-        return "Building things that actually work > talking about building things";
-    }
-}
-```
-
 <br>
 
 <p align="center">
@@ -55,6 +33,29 @@ public class MarufHossain {
 Diploma student in Computer Science & Technology (CST)
 Passionate about Java backend development 
 Interested in building scalable server-side applications.
+
+```java
+public class MarufHossain {
+    private String role = "Aspiring Java Backend Developer";
+    private String status = "Diploma Engineering Student @ Bangladesh";
+    private int graduationYear = 2027;
+    private String location = "Dhaka, Bangladesh";
+    private String[] techStack = {
+        "Java", "Spring Boot", "OOP",
+        "MySQL", "REST APIs", "Git"
+    };
+    private String[] funFacts = {
+        "Souls series veteran — Sekiro & Elden Ring",
+        "Started Java in March 2026, no regrets",
+
+    };
+
+    public String getMotivation() {
+        return "Building things that actually work > talking about building things";
+    }
+}
+```
+
 
 
 🛠️ Tech Stack
